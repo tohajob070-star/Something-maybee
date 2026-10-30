@@ -1,146 +1,203 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="Страница-1" id="kNnlNWMdmvx_QHPGlkkL">
-    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="1946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-wJ2ebxvI6SVa8JdEAVy-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Пользователь сервиса" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="90" as="geometry" />
+          <mxGeometry height="60" width="120" x="60" y="-100" as="geometry" />
         </mxCell>
         <mxCell id="-wJ2ebxvI6SVa8JdEAVy-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Администратор сервиса" vertex="1">
-          <mxGeometry height="60" width="120" x="70" y="610" as="geometry" />
-        </mxCell>
-        <mxCell id="-wJ2ebxvI6SVa8JdEAVy-18" edge="1" parent="1" source="-wJ2ebxvI6SVa8JdEAVy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-wJ2ebxvI6SVa8JdEAVy-5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry height="60" width="120" x="60" y="560" as="geometry" />
         </mxCell>
         <mxCell id="-wJ2ebxvI6SVa8JdEAVy-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Авторизация пользователя" vertex="1">
-          <mxGeometry height="60" width="120" x="320" y="90" as="geometry" />
-        </mxCell>
-        <mxCell id="-wJ2ebxvI6SVa8JdEAVy-7" edge="1" parent="1" source="-wJ2ebxvI6SVa8JdEAVy-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-wJ2ebxvI6SVa8JdEAVy-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-wJ2ebxvI6SVa8JdEAVy-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Открытие сайта" vertex="1">
-          <mxGeometry height="60" width="120" x="460" y="90" as="geometry" />
-        </mxCell>
-        <mxCell id="-wJ2ebxvI6SVa8JdEAVy-9" edge="1" parent="1" source="-wJ2ebxvI6SVa8JdEAVy-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="120" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry height="60" width="120" x="340" y="-100" as="geometry" />
         </mxCell>
         <mxCell id="-wJ2ebxvI6SVa8JdEAVy-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Нажатие кнопки авторизоваться" vertex="1">
-          <mxGeometry height="60" width="120" x="600" y="90" as="geometry" />
+          <mxGeometry height="60" width="120" x="480" y="-100" as="geometry" />
         </mxCell>
         <mxCell id="-wJ2ebxvI6SVa8JdEAVy-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Заполнение формы авторизации и ее подтверждение" vertex="1">
-          <mxGeometry height="60" width="120" x="740" y="90" as="geometry" />
+          <mxGeometry height="60" width="120" x="620" y="-100" as="geometry" />
         </mxCell>
         <mxCell id="-wJ2ebxvI6SVa8JdEAVy-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Получение доступа к сайту" vertex="1">
-          <mxGeometry height="60" width="120" x="180" y="90" as="geometry" />
+          <mxGeometry height="60" width="120" x="200" y="-100" as="geometry" />
         </mxCell>
         <mxCell id="-wJ2ebxvI6SVa8JdEAVy-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Предоставление доступа к сайту" vertex="1">
-          <mxGeometry height="60" width="120" x="210" y="610" as="geometry" />
-        </mxCell>
-        <mxCell id="-wJ2ebxvI6SVa8JdEAVy-20" edge="1" parent="1" source="-wJ2ebxvI6SVa8JdEAVy-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-wJ2ebxvI6SVa8JdEAVy-19">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry height="60" width="120" x="200" y="560" as="geometry" />
         </mxCell>
         <mxCell id="-wJ2ebxvI6SVa8JdEAVy-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Регистрация пользователя" vertex="1">
-          <mxGeometry height="60" width="120" x="360" y="610" as="geometry" />
+          <mxGeometry height="60" width="120" x="340" y="560" as="geometry" />
         </mxCell>
-        <mxCell id="-wJ2ebxvI6SVa8JdEAVy-22" edge="1" parent="1" source="-wJ2ebxvI6SVa8JdEAVy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-wJ2ebxvI6SVa8JdEAVy-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-wJ2ebxvI6SVa8JdEAVy-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Открытие панели администратора" vertex="1">
-          <mxGeometry height="60" width="120" x="500" y="610" as="geometry" />
-        </mxCell>
-        <mxCell id="-wJ2ebxvI6SVa8JdEAVy-25" edge="1" parent="1" source="-wJ2ebxvI6SVa8JdEAVy-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-wJ2ebxvI6SVa8JdEAVy-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-wJ2ebxvI6SVa8JdEAVy-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Нажатие кнопки создание пользователя" vertex="1">
-          <mxGeometry height="60" width="120" x="640" y="610" as="geometry" />
-        </mxCell>
-        <mxCell id="-wJ2ebxvI6SVa8JdEAVy-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Заполнение формы регистрации и ее подтверждение" vertex="1">
-          <mxGeometry height="60" width="120" x="780" y="610" as="geometry" />
-        </mxCell>
-        <mxCell id="-wJ2ebxvI6SVa8JdEAVy-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Регистрация в системе участников брони" vertex="1">
-          <mxGeometry height="60" width="120" x="160" y="170" as="geometry" />
-        </mxCell>
-        <mxCell id="-wJ2ebxvI6SVa8JdEAVy-29" edge="1" parent="1" source="-wJ2ebxvI6SVa8JdEAVy-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-wJ2ebxvI6SVa8JdEAVy-30">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-wJ2ebxvI6SVa8JdEAVy-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Создание карточки участника" vertex="1">
-          <mxGeometry height="60" width="120" x="320" y="170" as="geometry" />
-        </mxCell>
-        <mxCell id="-wJ2ebxvI6SVa8JdEAVy-31" edge="1" parent="1" source="-wJ2ebxvI6SVa8JdEAVy-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-wJ2ebxvI6SVa8JdEAVy-32">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-wJ2ebxvI6SVa8JdEAVy-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Открытие формы создания брони" vertex="1">
-          <mxGeometry height="60" width="120" x="460" y="170" as="geometry" />
-        </mxCell>
-        <mxCell id="-wJ2ebxvI6SVa8JdEAVy-33" edge="1" parent="1" source="-wJ2ebxvI6SVa8JdEAVy-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-wJ2ebxvI6SVa8JdEAVy-34">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="750" y="200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-wJ2ebxvI6SVa8JdEAVy-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Нажатие кнопки добавления участников" vertex="1">
-          <mxGeometry height="60" width="120" x="600" y="170" as="geometry" />
-        </mxCell>
-        <mxCell id="-wJ2ebxvI6SVa8JdEAVy-38" edge="1" parent="1" source="-wJ2ebxvI6SVa8JdEAVy-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-wJ2ebxvI6SVa8JdEAVy-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-wJ2ebxvI6SVa8JdEAVy-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Нажатие кнопки создания участника" vertex="1">
-          <mxGeometry height="60" width="120" x="740" y="170" as="geometry" />
-        </mxCell>
-        <mxCell id="-wJ2ebxvI6SVa8JdEAVy-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Заполнение формы создания участника и его подтверждения" vertex="1">
-          <mxGeometry height="60" width="120" x="880" y="170" as="geometry" />
+        <mxCell id="-wJ2ebxvI6SVa8JdEAVy-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Открытие и заполнение формы регистрации и ее подтверждение" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="560" as="geometry" />
         </mxCell>
         <mxCell id="_tRN1rdY7nASy8REEROB-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Создание брони" vertex="1">
-          <mxGeometry height="60" width="120" x="180" y="250" as="geometry" />
-        </mxCell>
-        <mxCell id="_tRN1rdY7nASy8REEROB-5" edge="1" parent="1" source="_tRN1rdY7nASy8REEROB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_tRN1rdY7nASy8REEROB-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry height="60" width="120" x="200" y="60" as="geometry" />
         </mxCell>
         <mxCell id="_tRN1rdY7nASy8REEROB-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Выбор слота и комнаты" vertex="1">
-          <mxGeometry height="60" width="120" x="320" y="250" as="geometry" />
-        </mxCell>
-        <mxCell id="_tRN1rdY7nASy8REEROB-6" edge="1" parent="1" source="_tRN1rdY7nASy8REEROB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_tRN1rdY7nASy8REEROB-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_tRN1rdY7nASy8REEROB-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Открытие формы создания брони" vertex="1">
-          <mxGeometry height="60" width="120" x="460" y="250" as="geometry" />
-        </mxCell>
-        <mxCell id="_tRN1rdY7nASy8REEROB-8" edge="1" parent="1" source="_tRN1rdY7nASy8REEROB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_tRN1rdY7nASy8REEROB-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="750" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_tRN1rdY7nASy8REEROB-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Выбор комнаты" vertex="1">
-          <mxGeometry height="60" width="120" x="600" y="250" as="geometry" />
-        </mxCell>
-        <mxCell id="_tRN1rdY7nASy8REEROB-11" edge="1" parent="1" source="_tRN1rdY7nASy8REEROB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_tRN1rdY7nASy8REEROB-10">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry height="60" width="120" x="340" y="-20" as="geometry" />
         </mxCell>
         <mxCell id="_tRN1rdY7nASy8REEROB-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Выбор недели" vertex="1">
-          <mxGeometry height="60" width="120" x="740" y="250" as="geometry" />
-        </mxCell>
-        <mxCell id="_tRN1rdY7nASy8REEROB-13" edge="1" parent="1" source="_tRN1rdY7nASy8REEROB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_tRN1rdY7nASy8REEROB-12">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry height="60" width="120" x="1470" y="-20" as="geometry" />
         </mxCell>
         <mxCell id="_tRN1rdY7nASy8REEROB-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Выбор дня" vertex="1">
-          <mxGeometry height="60" width="120" x="880" y="250" as="geometry" />
-        </mxCell>
-        <mxCell id="_tRN1rdY7nASy8REEROB-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Выбор слота" vertex="1">
-          <mxGeometry height="60" width="120" x="1020" y="250" as="geometry" />
+          <mxGeometry height="60" width="120" x="480" y="-20" as="geometry" />
         </mxCell>
         <mxCell id="_tRN1rdY7nASy8REEROB-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Создание списка участников" vertex="1">
-          <mxGeometry height="60" width="120" x="320" y="330" as="geometry" />
+          <mxGeometry height="60" width="120" x="340" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="_tRN1rdY7nASy8REEROB-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Открытие формы создания брони" vertex="1">
-          <mxGeometry height="60" width="120" x="460" y="330" as="geometry" />
+        <mxCell id="_tRN1rdY7nASy8REEROB-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Добавление известного системе участника с помощью поисковой строки&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Создание неизвестного системе участника" vertex="1">
+          <mxGeometry height="60" width="120" x="620" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Удаление из списка участника" vertex="1">
+          <mxGeometry height="60" width="120" x="760" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Выбор месяца" vertex="1">
+          <mxGeometry height="60" width="120" x="1190" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Просмотр характеристик комнаты" vertex="1">
+          <mxGeometry height="60" width="120" x="760" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Просмотр занятых слотов комнаты" vertex="1">
+          <mxGeometry height="60" width="120" x="620" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Заполнение прочей информации" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Выбор временного промежутка дня" vertex="1">
+          <mxGeometry height="60" width="120" x="1330" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Введение описания" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Выбор слота" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Выбор дня недели" vertex="1">
+          <mxGeometry height="60" width="120" x="1050" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Указание темы встречи" vertex="1">
+          <mxGeometry height="60" width="120" x="620" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Управление бронью" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Указание срока уведомлений" vertex="1">
+          <mxGeometry height="60" width="120" x="1050" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Настройка брони" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Просмотр встреч" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Просмотр списка завершенных встреч" vertex="1">
+          <mxGeometry height="60" width="120" x="1050" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Просмотр предстоящих встреч" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Редактирование данных брони" vertex="1">
+          <mxGeometry height="60" width="120" x="1050" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Удаление брони" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Регистрация встречи" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Подтверждение начала встречи" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Продление встречи" vertex="1">
+          <mxGeometry height="60" width="120" x="1050" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Регистрация окончания встречи" vertex="1">
+          <mxGeometry height="60" width="120" x="760" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Введение данных по итогам встречи" vertex="1">
+          <mxGeometry height="60" width="120" x="1190" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Организатор встречи" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Подтверждение списка присутствущих" vertex="1">
+          <mxGeometry height="60" width="120" x="620" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Ограничение доступа к переговорной" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Закртые переговорной по техническим причинам" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Выбор комнаты" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Указание причин и приоритета блокировки" vertex="1">
+          <mxGeometry height="60" width="120" x="620" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Указание временного срока блокировки" vertex="1">
+          <mxGeometry height="60" width="120" x="760" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Указание приоритета встречи" vertex="1">
+          <mxGeometry height="60" width="120" x="1190" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Управление блокировкой" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Досрочное окончание блокировки" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Менеджер" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Просмотр статистики&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Просмотр статистики сотрудников" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Просмотр списка будущих встреч подчиненного" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Дарование определенных прав" vertex="1">
+          <mxGeometry height="60" width="120" x="620" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Просмотр списка прошедших встреч подчиненного" vertex="1">
+          <mxGeometry height="60" width="120" x="620" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Просмотр статистики встреч сотрудника" vertex="1">
+          <mxGeometry height="60" width="120" x="760" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Просмотр клиентов сотрудника" vertex="1">
+          <mxGeometry height="60" width="120" x="900" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Участник встречи" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Оповещение о встречи" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Отправка уведомлений по почте" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Отправка уведомления о скорой встречи" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Отправка уведомления об отмене встречи" vertex="1">
+          <mxGeometry height="60" width="120" x="620" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-74" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1030" y="-130" as="sourcePoint" />
+            <mxPoint x="1030" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_tRN1rdY7nASy8REEROB-75" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MVP" vertex="1">
+          <mxGeometry height="30" width="60" x="1000" y="-160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
