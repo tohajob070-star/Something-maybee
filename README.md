@@ -14,3 +14,5 @@
 Сетевой график: https://github.com/tohajob070-star/Something-maybee/blob/main/docs/01-planning/release-plan.png
 
 Методология процесса разработки: https://github.com/tohajob070-star/Something-maybee/blob/main/docs/01-planning/process
+
+Тег версии: lab_1
