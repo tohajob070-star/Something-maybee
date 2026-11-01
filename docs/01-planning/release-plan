@@ -1,3 +1,4 @@
+```mermaid
 flowchart LR
     US1["US1: Регистрация_пользователя<br/>E=2.0, резерв=0.0"]
     US2["US2: Авторизация_пользователя<br/>E=2.0, резерв=0.0"]
@@ -21,3 +22,4 @@ flowchart LR
     US1 --> US11
     classDef crit fill:#F2A541,stroke:#0F3D3E;
     class US1,US2,US4,US8 crit;
+```
