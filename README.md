@@ -15,4 +15,6 @@
 
 Методология процесса разработки: https://github.com/tohajob070-star/Something-maybee/blob/main/docs/01-planning/process
 
+Доска задач: https://github.com/users/tohajob070-star/projects/1
+
 Тег версии: lab_1
