@@ -17,4 +17,4 @@
 
 Доска задач: https://github.com/users/tohajob070-star/projects/1
 
-Тег версии: lab_1
+Тег версии: lab_1.2
