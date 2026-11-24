@@ -34,7 +34,7 @@
 
 
 Оптимизация 2: Кэширование слоёв Docker
-      - name: Set up Docker Buildx
+        - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v3
 
       - name: Build Docker image with cache
@@ -45,15 +45,6 @@
           tags: mini-crm:latest
           cache-from: type=gha
           cache-to: type=gha,mode=max
-  - name: Cache Composer dependencies
-        uses: actions/cache@v4
-        with:
-          path: vendor
-          key: ${{ runner.os }}-composer-${{ hashFiles('**/composer.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-composer-
-
-
 
 
 Оптимизация 3: Отмена устаревших запусков (Concurrency)
