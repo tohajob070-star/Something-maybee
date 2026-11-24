@@ -24,7 +24,7 @@
 
 Оптимизация 1: Кэширование зависимостей Composer
 ```yaml
-               - name: Cache Composer dependencies
+        - name: Cache Composer dependencies
         uses: actions/cache@v4
         with:
           path: vendor
@@ -33,6 +33,7 @@
             ${{ runner.os }}-composer-   
 ```
 Оптимизация 2: Кэширование слоёв Docker
+```yaml
         - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v3
 
@@ -44,7 +45,7 @@
           tags: mini-crm:latest
           cache-from: type=gha
           cache-to: type=gha,mode=max
-
+```
 
 Оптимизация 3: Отмена устаревших запусков (Concurrency)
 ```yaml
