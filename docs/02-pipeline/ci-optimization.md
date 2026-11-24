@@ -47,11 +47,13 @@
 
 
 Оптимизация 3: Отмена устаревших запусков (Concurrency)
+```yaml
 concurrency:
   group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
   cancel-in-progress: ${{ github.event_name == 'pull_request' }}
-
+```
 Оптимизация 4: Параллельные задачи (job)
+```yaml
 jobs:
   lint:
     runs-on: ubuntu-latest
@@ -62,3 +64,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # ... шаги установки и тестов
+```
