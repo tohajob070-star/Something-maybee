@@ -45,6 +45,16 @@
           tags: mini-crm:latest
           cache-from: type=gha
           cache-to: type=gha,mode=max
+  - name: Cache Composer dependencies
+        uses: actions/cache@v4
+        with:
+          path: vendor
+          key: ${{ runner.os }}-composer-${{ hashFiles('**/composer.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-composer-
+
+
+
 
 Оптимизация 3: Отмена устаревших запусков (Concurrency)
 concurrency:
