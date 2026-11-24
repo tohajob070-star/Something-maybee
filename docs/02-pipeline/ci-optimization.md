@@ -23,14 +23,13 @@
 Линтер выполняется параллельно с тестами и не удлиняет критический путь.
 
 Оптимизация 1: Кэширование зависимостей Composer
-        - name: Cache Composer dependencies
+              - name: Cache Composer dependencies
         uses: actions/cache@v4
         with:
           path: vendor
           key: ${{ runner.os }}-composer-${{ hashFiles('**/composer.lock') }}
           restore-keys: |
             ${{ runner.os }}-composer-
-
 
 
 Оптимизация 2: Кэширование слоёв Docker
