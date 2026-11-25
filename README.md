@@ -20,14 +20,23 @@
 Тег версии: lab_1.2
 
 Лабораторная работа 2
+
 Задание 2.1
+
 branching.md https://github.com/tohajob070-star/Something-maybee/blob/main/docs/02-pipeline/branching.md
+
 Защита основной ветки: https://github.com/tohajob070-star/Something-maybee/settings/rules/27968403
+
 pull request: https://github.com/tohajob070-star/Something-maybee/blob/main/.github/PULL_REQUEST_TEMPLATE.md
+
 CODEOWNERS: https://github.com/tohajob070-star/Something-maybee/blob/main/.github/CODEOWNERS
+
 Conventional Commits: https://github.com/tohajob070-star/Something-maybee/blob/main/docs/01-planning/Conventional%20Commits
 
-Задание 2.2. DockerFile: https://github.com/tohajob070-star/Something-maybee/blob/main/laravel-project/Dockerfile
+Задание 2.2. 
+
+DockerFile: https://github.com/tohajob070-star/Something-maybee/blob/main/laravel-project/Dockerfile
+
 Docker-compose.yml https://github.com/tohajob070-star/Something-maybee/blob/main/laravel-project/docker-compose.yml
 
 Задание 2.3. Конвейер непрерывной интеграции: https://github.com/tohajob070-star/Something-maybee/blob/5b2b84ff739ba65955881b905203bf9b309b6cd8/docs/CI.yaml
