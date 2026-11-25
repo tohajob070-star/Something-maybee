@@ -1,5 +1,9 @@
 # Владельцы кода: их одобрение обязательно для изменений в указанных путях.
 # Замените логины на логины участников команды.
 *                 @tohajob070-star @MichailAllenov
-#/src/booking/     @participant-a
-#/.github/         @participant-b
+/database/     @tohajob070-star
+/app/models/       @tohajob070-star
+/app/Http/Controllers @tohajob070-star
+/.github/         @MichailAllenov
+/public/          @MichailAllenov
+/resources/       @MichailAllenov
