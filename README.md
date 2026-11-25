@@ -19,4 +19,4 @@
 
 Тег версии: lab_1.2
 
-Задание 2.3. Конвейер непрерывной интеграции: docs/CI.yaml
+Задание 2.3. Конвейер непрерывной интеграции: https://github.com/tohajob070-star/Something-maybee/blob/5b2b84ff739ba65955881b905203bf9b309b6cd8/docs/CI.yaml
